@@ -6,6 +6,7 @@
 
 
 You can find the deployed project [here](https://master.d1t4t6k77hfkhl.amplifyapp.com/).
+Back-end link [here](https://github.com/dylan17th/My-School-BE/).
 
 ## Contributors
 
